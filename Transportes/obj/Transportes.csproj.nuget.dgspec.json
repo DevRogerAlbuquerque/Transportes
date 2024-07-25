@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rogso\\Documents\\SIGA API\\Transportes\\Transportes\\Transportes.csproj": {}
+    "C:\\git\\Transportes\\Transportes\\Transportes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rogso\\Documents\\SIGA API\\Transportes\\Transportes\\Transportes.csproj": {
+    "C:\\git\\Transportes\\Transportes\\Transportes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rogso\\Documents\\SIGA API\\Transportes\\Transportes\\Transportes.csproj",
+        "projectUniqueName": "C:\\git\\Transportes\\Transportes\\Transportes.csproj",
         "projectName": "Transportes",
-        "projectPath": "C:\\Users\\rogso\\Documents\\SIGA API\\Transportes\\Transportes\\Transportes.csproj",
+        "projectPath": "C:\\git\\Transportes\\Transportes\\Transportes.csproj",
         "packagesPath": "C:\\Users\\rogso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rogso\\Documents\\SIGA API\\Transportes\\Transportes\\obj\\",
+        "outputPath": "C:\\git\\Transportes\\Transportes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rogso\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,22 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
