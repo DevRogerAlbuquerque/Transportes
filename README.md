@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para o seu repositório GitHub:
-
----
-
 **API de Controle de Transportes**
 
 Esta é uma Web API desenvolvida em C# utilizando uma arquitetura RESTful para controlar um módulo de transportes em um sistema.
