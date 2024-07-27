@@ -44,9 +44,21 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+            "Cqrs": {
+              "target": "Package",
+              "version": "[5.2.0.46, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
             "Microsoft.AspNetCore.JsonPatch": {
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
             },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
@@ -56,9 +68,21 @@
               "target": "Package",
               "version": "[8.0.1, )"
             },
+            "SqlKata": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "SqlKata.Execution": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.5.0, )"
+              "version": "[6.6.2, )"
+            },
+            "System.Reflection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [
